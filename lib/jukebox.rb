@@ -37,3 +37,11 @@ end
 def exit_jukebox
 abort("Goodbye")
 end
+
+def run
+  help
+  list
+  puts "Please enter a command:"
+  
+
+end
